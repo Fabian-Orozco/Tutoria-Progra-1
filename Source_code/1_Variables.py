@@ -50,7 +50,7 @@ def main():
   edad = numeroZapatos = 0
 
   """Declarar varias variables desde un arreglo"""
-  fruits = ["apple", "banana", "cherry"]
+  fruits = ["apple", "banana", "cherry"] # Esto es un array
   x, y, z = fruits
   # print(x + y + z)
 
