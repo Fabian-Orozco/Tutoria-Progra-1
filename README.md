@@ -4,6 +4,7 @@ Este repositorio tiene como finalidad almacenar los ejemplos y ejercicios creado
 
 ## Links útiles
 - [Referencia oficial de Python](https://docs.python.org/3.11/reference/) v.3.11
+- [Ejercicios - CodeChef](https://www.codechef.com/problems)
 - [Ejercicios - exercism.io](https://exercism.org/tracks/python)
 
 ---
@@ -15,7 +16,7 @@ Este repositorio tiene como finalidad almacenar los ejemplos y ejercicios creado
   - [x]  2. Introducción a Python <br>
   - [x]  3. Variables <br>
   - [x]  4. Tipos de datos (números, cadenas, booleanos) <br>
-  - [ ]  5. Operadores (aritméticos, de asignación, de comparación, lógicos)<br>
+  - [x]  5. Operadores (aritméticos, de asignación, de comparación, lógicos)<br>
   - [ ]  6. Estructuras de control de flujo (if-else, bucles) <br>
 
   ### 🎲 Parte 2 - Nivel intermedio 
@@ -48,5 +49,5 @@ Este repositorio tiene como finalidad almacenar los ejemplos y ejercicios creado
 <br>
 <p style="text-align: center;">"All that you can imagine is real." - Henry Ford <br></p>
 
-Horas impartidas ```4:00:00```  
+Horas impartidas ```6:22:00```  
 Pago realizado (09-01-23): ```₡30.000``` ( Abarca 7:30:00 horas )
