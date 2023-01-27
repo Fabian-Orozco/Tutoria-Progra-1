@@ -17,7 +17,7 @@ Este repositorio tiene como finalidad almacenar los ejemplos y ejercicios creado
   - [x]  3. Variables <br>
   - [x]  4. Tipos de datos (números, cadenas, booleanos) <br>
   - [x]  5. Operadores (aritméticos, de asignación, de comparación, lógicos)<br>
-  - [ ]  6. Estructuras de control de flujo (if-else, bucles) <br>
+  - [x]  6. Estructuras de control de flujo (if-else, bucles) <br>
 
   ### 🎲 Parte 2 - Nivel intermedio 
   - [ ]  7. Funciones <br>
@@ -49,8 +49,8 @@ Este repositorio tiene como finalidad almacenar los ejemplos y ejercicios creado
 <br>
 <p style="text-align: center;">"All that you can imagine is real." - Henry Ford <br></p>
 
-Horas impartidas ```11:00:00```  
-Monto pendiente: ```₡299.530```  
+Horas impartidas ```13:00:00```  
+Monto pendiente: ```₡291.530```  
 
 Pago realizado (09-01-23): ```₡30.000``` ( 7:30:00 horas abarcadas )  
 Financiamiento de computadora (14-01-23): ```₡313.530```

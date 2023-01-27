@@ -1,0 +1,8 @@
+procedure main do
+    inicializarJuego()
+    create int numGenerado = generarNumeroAleatorio()
+end
+
+procedure generarNumeroAleatorio do
+    random.randint(start, end)
+end
