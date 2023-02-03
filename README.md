@@ -20,7 +20,7 @@ Este repositorio tiene como finalidad almacenar los ejemplos y ejercicios creado
   - [x]  6. Estructuras de control de flujo (if-else, bucles) <br>
 
   ### 🎲 Parte 2 - Nivel intermedio 
-  - [ ]  7. Funciones <br>
+  - [x]  7. Funciones <br>
   - [ ]  8. Estructuras de datos (Arrays, listas, diccionarios, conjuntos, tuplas) <br>
   - [ ]  9. Rangos <br>
   - [ ]  10. Excepciones <br>
@@ -50,7 +50,7 @@ Este repositorio tiene como finalidad almacenar los ejemplos y ejercicios creado
 <p style="text-align: center;">"All that you can imagine is real." - Henry Ford <br></p>
 
 Horas impartidas ```19:00:00```  
-Monto pendiente: ```₡267.530```  
+Monto pendiente: ```₡259.530```  
 
 Pago realizado (09-01-23): ```₡30.000``` ( 7:30:00 horas abarcadas )  
 Financiamiento de computadora (14-01-23): ```₡313.530```
