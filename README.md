@@ -49,8 +49,8 @@ Este repositorio tiene como finalidad almacenar los ejemplos y ejercicios creado
 <br>
 <p style="text-align: center;">"All that you can imagine is real." - Henry Ford <br></p>
 
-Horas impartidas ```25:00:00```  
-Monto pendiente: ```₡243.530```  
+Horas impartidas ```27:00:00```  
+Monto pendiente: ```₡235.530```  
 
 Pago realizado (09-01-23): ```₡30.000``` ( 7:30:00 horas abarcadas )  
 Financiamiento de computadora (14-01-23): ```₡313.530```
